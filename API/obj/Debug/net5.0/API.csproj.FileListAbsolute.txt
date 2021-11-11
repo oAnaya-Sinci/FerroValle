@@ -1,0 +1,185 @@
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\appsettings.json
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.exe
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.deps.json
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\ref\API.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\ref\API.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\appsettings.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.exe
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.deps.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\ref\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\API.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\ref\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\appsettings.Development.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\appsettings.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.exe
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.deps.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\ref\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\API.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\ref\API.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.pdb
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\MySql.Data.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\SINCI FOLDER\Sinci_Proyects\FerroValle\Proyect_FerroValle_copy\API\bin\Debug\net5.0\ZstdNet.dll
