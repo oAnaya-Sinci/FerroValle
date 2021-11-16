@@ -98,20 +98,20 @@
 
               <div class="col-md-2">
                   <label for="">Fecha Inicial</label>
-                  <tempalte>
+                  <template>
                     <div id="startDate">
                       <date-picker v-model="startDate" valueType="format" format="DD/MM/YYYY"></date-picker>
                     </div>
-                  </tempalte>
+                  </template>
               </div>
 
               <div class="col-md-2">
                   <label for="">Fecha Final</label>
-                  <tempalte>
+                  <template>
                     <div id="endedDate">
                       <date-picker v-model="endedDate" valueType="format" format="DD/MM/YYYY"></date-picker>
                     </div>
-                  </tempalte>
+                  </template>
               </div>
 
               <div class="col-md-2">

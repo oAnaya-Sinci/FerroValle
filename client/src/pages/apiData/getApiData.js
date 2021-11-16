@@ -10,6 +10,8 @@ _today = dd + '/' + mm + '/' + yyyy;
 
 let dataCoordinates = [];
 
+let testCoordinates = 0;
+
 export default {
 
     obtainDataChartLine() {
@@ -92,8 +94,8 @@ export default {
 
     obtainCoordinatesTrains() {
 
-        let startDate = $('#startDate .mx-datepicker .mx-input').val();
-        let endedDate = $('#endedDate .mx-datepicker .mx-input').val();
+        // let startDate = $('#startDate .mx-datepicker .mx-input').val();
+        // let endedDate = $('#endedDate .mx-datepicker .mx-input').val();
 
         let markets;
 
@@ -101,7 +103,7 @@ export default {
             url: 'api/obtainCoordinates/',
             type: 'GET',
             async: false,
-            data: { startDate: startDate, endedDate: endedDate },
+            // data: { startDate: startDate, endedDate: endedDate },
             success: function(response) {
 
                 markets = obtainDataMarkets(response[0].latitud, response[1].latitud, response[0].longitud, response[1].longitud, response[0].fechaGps, response[1].fechaGps);
@@ -115,11 +117,6 @@ export default {
         });
 
         return JSON.stringify([dataCoordinates, markets]);
-    },
-
-    getDataMarkets() {
-
-
     },
 
     obtainDataFromMySQL() {
@@ -209,9 +206,99 @@ export default {
             { lat: 20.653730, lng: -103.401211 },
             { lat: 20.650989, lng: -103.403110 },
             { lat: 20.647907, lng: -103.405041 },
+            { lat: 20.647907, lng: -103.405041 },
+            { lat: 20.646106, lng: -103.406293 },
+            { lat: 20.644079, lng: -103.407660 },
+            { lat: 20.642601, lng: -103.408643 },
+            { lat: 20.638776, lng: -103.411186 },
+            { lat: 20.635101, lng: -103.413589 },
+            { lat: 20.634870, lng: -103.413954 },
+            { lat: 20.634659, lng: -103.413890 },
+            { lat: 20.633956, lng: -103.414351 },
+            { lat: 20.632811, lng: -103.415136 },
+            { lat: 20.630330, lng: -103.416819 },
+            { lat: 20.628693, lng: -103.417795 },
+            { lat: 20.628211, lng: -103.418353 },
+            { lat: 20.627639, lng: -103.418546 },
+            { lat: 20.625882, lng: -103.419726 },
+            { lat: 20.623884, lng: -103.421024 },
+            { lat: 20.621344, lng: -103.422741 },
+            { lat: 20.619948, lng: -103.423599 },
+            { lat: 20.618723, lng: -103.424436 },
+            { lat: 20.617679, lng: -103.425123 },
+            { lat: 20.616183, lng: -103.426142 },
+        ];
+
+        dataCoordinates.push(dataPath[testCoordinates]);
+
+        let markets = [{
+            locomotora: "Locomotora Test 1",
+            velocidad: "50 K/H",
+            kilometraje: "200 000",
+            motor: "Encendido",
+            direccion: "Preguntar que es",
+            engranaje: "4",
+            voltajes: "120 v",
+            n_combustible: "80",
+            fecha: _today,
+            position: { lat: dataPath[testCoordinates].lat, lng: dataPath[testCoordinates].lng },
+        }];
+
+        testCoordinates++;
+
+        return JSON.stringify([dataCoordinates, markets]);
+    },
+
+    testDataHistoricos() {
+
+        let dataPath = [
+            { lat: 20.674330, lng: -103.387832 },
+            { lat: 20.674265, lng: -103.387805 },
+            { lat: 20.674250, lng: -103.387773 },
+            { lat: 20.674100, lng: -103.387806 },
+            { lat: 20.674034, lng: -103.387832 },
+            { lat: 20.673944, lng: -103.387875 },
+            { lat: 20.673874, lng: -103.387913 },
+            { lat: 20.671006, lng: -103.389896 },
+            { lat: 20.670645, lng: -103.390096 },
+            { lat: 20.669310, lng: -103.390965 },
+            { lat: 20.667051, lng: -103.392413 },
+            { lat: 20.667031, lng: -103.392971 },
+            { lat: 20.666840, lng: -103.393175 },
+            { lat: 20.666489, lng: -103.393347 },
+            { lat: 20.666258, lng: -103.393239 },
+            { lat: 20.666047, lng: -103.393132 },
+            { lat: 20.661971, lng: -103.395803 },
+            { lat: 20.659602, lng: -103.397380 },
+            { lat: 20.657173, lng: -103.398979 },
+            { lat: 20.653730, lng: -103.401211 },
+            { lat: 20.650989, lng: -103.403110 },
+            { lat: 20.647907, lng: -103.405041 },
+            { lat: 20.647907, lng: -103.405041 },
+            { lat: 20.646106, lng: -103.406293 },
+            { lat: 20.644079, lng: -103.407660 },
+            { lat: 20.642601, lng: -103.408643 },
+            { lat: 20.638776, lng: -103.411186 },
+            { lat: 20.635101, lng: -103.413589 },
+            { lat: 20.634870, lng: -103.413954 },
+            { lat: 20.634659, lng: -103.413890 },
+            { lat: 20.633956, lng: -103.414351 },
+            { lat: 20.632811, lng: -103.415136 },
+            { lat: 20.630330, lng: -103.416819 },
+            { lat: 20.628693, lng: -103.417795 },
+            { lat: 20.628211, lng: -103.418353 },
+            { lat: 20.627639, lng: -103.418546 },
+            { lat: 20.625882, lng: -103.419726 },
+            { lat: 20.623884, lng: -103.421024 },
+            { lat: 20.621344, lng: -103.422741 },
+            { lat: 20.619948, lng: -103.423599 },
+            { lat: 20.618723, lng: -103.424436 },
+            { lat: 20.617679, lng: -103.425123 },
+            { lat: 20.616183, lng: -103.426142 },
         ];
 
         return JSON.stringify(dataPath);
+        // return dataPath;
     },
 }
 

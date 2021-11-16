@@ -1,5 +1,5 @@
 <template>
-    <div class="vue-tempalte">
+    <div class="vue-template">
         <form>
             <h3>Sign In</h3>
 

@@ -50,6 +50,12 @@
         <p>Notifications</p>
       </sidebar-link>
 
+      <sidebar-link to="/admin/mantenimientos">
+        <!-- <i class="nc-icon nc-pin-3"></i> -->
+        <i class="nc-icon nc-settings-tool-66"></i>
+        <p>Mantenimientos</p>
+      </sidebar-link>
+
     </side-bar>
     <div class="main-panel">
       <top-navbar></top-navbar>

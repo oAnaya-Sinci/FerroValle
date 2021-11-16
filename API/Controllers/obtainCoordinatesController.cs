@@ -41,12 +41,30 @@ namespace API.Controllers
       string startTime = "00:00:00";
       string endedTime = "11:59:59";
 
-      int startD = this.unixTimeStamp(startDate.Split('/'), startTime);
-      int endedD = this.unixTimeStamp(endedDate.Split('/'), endedTime);
+      // int startD = this.unixTimeStamp(startDate.Split('/'), startTime);
+      // int endedD = this.unixTimeStamp(endedDate.Split('/'), endedTime);
 
-      // return _context.datFileInformation.Take(200).ToList();
+      // return _context.datFileInformation.Where(t => t.dateSpan >= startD && t.dateSpan <= endedD).Select(dataWT => new datFileInformation{
+      //       id = Convert.ToInt32(dataWT.id),
+      //       date = Convert.ToDateTime( dataWT.date ),
+      //       time = Convert.ToDateTime( "01/01/1969 " + dataWT.time ),
+      //       kilometer = Convert.ToInt32(dataWT.kilometer),
+      //       meters = Convert.ToInt32(dataWT.meters),
+      //       speed_km_h = Convert.ToInt32(dataWT.speed_km_h),
+      //       load_amps = Convert.ToInt32(dataWT.load_amps),
+      //       voltaje_volts = Convert.ToInt32(dataWT.voltaje_volts),
+      //       power_kw = Convert.ToInt32(dataWT.power_kw),
+      //       eab_bp_psi = Convert.ToInt32(dataWT.eab_bp_psi),
+      //       eab_bc_psi = Convert.ToInt32(dataWT.eab_bc_psi),
+      //       fuel_liters = Convert.ToInt32(dataWT.fuel_liters),
+      //       throttle = dataWT.throttle,
+      //       pcs_open = dataWT.pcs_open,
+      //       dir_call = dataWT.dir_call,
+      //       wheel_slip = dataWT.wheel_slip,
+      //       ground_relay = dataWT.ground_relay,
+      //     }).ToList();
 
-      var dataWapTec = _context.datFileInformation.Where(t => t.dateSpan >= startD && t.dateSpan <= endedD).Select(dataWT => new datFileInformation{
+      return _context.datFileInformation.Take(500).Select(dataWT => new datFileInformation{
             id = Convert.ToInt32(dataWT.id),
             date = Convert.ToDateTime( dataWT.date ),
             time = Convert.ToDateTime( "01/01/1969 " + dataWT.time ),
@@ -65,37 +83,6 @@ namespace API.Controllers
             wheel_slip = dataWT.wheel_slip,
             ground_relay = dataWT.ground_relay,
           }).ToList();
-
-      return dataWapTec;
-
-      // .Where(t => t.dateSpan >= startD && t.dateSpan <= endedD)
-
-      // List<datFileInformation> datFile = new List<datFileInformation>();
-
-      // foreach (var dataWT in dataWapTec){
-
-      //       datFile.Add( new datFileInformation{
-      //       id = Convert.ToInt32(dataWT.id),
-      //       date = Convert.ToDateTime( dataWT.date ),
-      //       time = Convert.ToDateTime( "01/01/1969 " + dataWT.time ),
-      //       kilometer = Convert.ToInt32(dataWT.kilometer),
-      //       meters = Convert.ToInt32(dataWT.meters),
-      //       speed_km_h = Convert.ToInt32(dataWT.speed_km_h),
-      //       load_amps = Convert.ToInt32(dataWT.load_amps),
-      //       voltaje_volts = Convert.ToInt32(dataWT.voltaje_volts),
-      //       power_kw = Convert.ToInt32(dataWT.power_kw),
-      //       eab_bp_psi = Convert.ToInt32(dataWT.eab_bp_psi),
-      //       eab_bc_psi = Convert.ToInt32(dataWT.eab_bc_psi),
-      //       fuel_liters = Convert.ToInt32(dataWT.fuel_liters),
-      //       throttle = dataWT.throttle,
-      //       pcs_open = dataWT.pcs_open,
-      //       dir_call = dataWT.dir_call,
-      //       wheel_slip = dataWT.wheel_slip,
-      //       ground_relay = dataWT.ground_relay,
-      //     } );  
-      // }
-
-      // return datFile;
     } 
 
     public int unixTimeStamp(string[] date, string time){

@@ -14,6 +14,8 @@ import Notifications from 'src/pages/Notifications.vue'
 
 import Wabtec from 'src/pages/WabtecData.vue';
 
+import Manten from 'src/pages/mantenimientos.vue';
+
 import Login from 'src/pages/Login.vue';
 import Singup from 'src/pages/singup.vue';
 
@@ -91,6 +93,11 @@ const routes = [{
                 path: 'wabtecdata',
                 name: 'Wabtec Data',
                 component: Wabtec
+            },
+            {
+                path: 'mantenimientos',
+                name: 'Manteniminetos',
+                component: Manten
             }
         ]
     },

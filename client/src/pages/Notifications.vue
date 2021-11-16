@@ -32,20 +32,20 @@
                 
               <div class="col-md-2">
                   <label for="">Fecha Inicial</label>
-                  <tempalte>
+                  <template>
                     <div>
                       <date-picker v-model="startDate" valueType="format" format="DD/MM/YYYY"></date-picker>
                     </div>
-                  </tempalte>
+                  </template>
               </div>
 
               <div class="col-md-2">
                   <label for="">Fecha Final</label>
-                  <tempalte>
+                  <template>
                     <div>
                       <date-picker v-model="endDate" valueType="format" format="DD/MM/YYYY"></date-picker>
                     </div>
-                  </tempalte>
+                  </template>
               </div>
 
               <div class="col-md-2">
@@ -82,7 +82,7 @@
   import LTable from 'src/components/Table.vue'
   import Card from 'src/components/Cards/Card.vue'
 
-  import {today} from './apiData/BackendData';
+  import {today} from './apiData/getApiData';
   import DatePicker from 'vue2-datepicker';
   import 'vue2-datepicker/index.css';
 

@@ -6,7 +6,7 @@
     :options="options"
     map-type-id="hybrid"
   >
-    <!-- <gmap-marker :position="center"> </gmap-marker>  -->
+    <gmap-marker :position="center"> </gmap-marker> 
 
     <gmap-polyline v-bind:path.sync="path" v-bind:options="{ strokeColor:'#008000'}"></gmap-polyline>
     <!-- <gmap-polyline v-bind:path.sync="path2" v-bind:options="{ strokeColor:'#F05432'}"></gmap-polyline>
@@ -73,6 +73,7 @@ import api from './apiData/getApiData';
     data () {
       return {
         center: { lat: latitud, lng: longitud }, // Coordenadas de la Minerva en Guadalajara
+        // center: {lat: 19.384460, lng: -99.181999}, // Coordenadas ciudad de mexico, depto en jose clemente orozco
         path: null,
         // path2: paths2,
         // path3: paths3,
@@ -227,16 +228,15 @@ import api from './apiData/getApiData';
       dataPaths(){
 
         setInterval(() => {
-          // this.path = JSON.parse(api.testDataToShowInMap());
-          // this.path = JSON.parse(api.obtainCoordinatesTrains());
 
-          let dataCoordinates = JSON.parse(api.obtainCoordinatesTrains());
+          // let dataCoordinates = JSON.parse(api.obtainCoordinatesTrains());
+          let dataCoordinates = JSON.parse(api.testDataToShowInMap());
 
-          // console.log(dataCoordinates);
+          // console.log( dataCoordinates );
 
           this.path = dataCoordinates[0];
           this.markers = dataCoordinates[1];
-        }, 5000)
+        }, 2000)
       }
     },
 
